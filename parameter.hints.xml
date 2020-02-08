@@ -1,8 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <disabledLanguages>
-      <language id="TypeScript" />
-      <language id="Angular2Html" />
-    </disabledLanguages>
-  </component>
-</application>
