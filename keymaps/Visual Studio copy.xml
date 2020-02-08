@@ -1,0 +1,81 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+  </action>
+  <action id="CommentByLineComment" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
