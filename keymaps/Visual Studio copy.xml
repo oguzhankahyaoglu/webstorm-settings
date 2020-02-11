@@ -3,6 +3,7 @@
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -44,6 +45,7 @@
   <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl add" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
