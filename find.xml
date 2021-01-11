@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="vardiya defteri: geçmiş tarihli onaylama yetkisi kontrolleri" />
-    <option name="defaultScopeName" value="vardiya defteri: geçmiş tarihli onaylama yetkisi kontrolleri" />
-    <option name="SEARCH_SCOPE" value="vardiya defteri: geçmiş tarihli onaylama yetkisi kontrolleri" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
   </component>
 </application>
