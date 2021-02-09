@@ -17,4 +17,11 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+  </component>
 </application>
